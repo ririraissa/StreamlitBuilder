@@ -4,7 +4,7 @@ I have removed the visualization page and uploaded the regressor model to preven
 
 Random Forest model: [Link to Random Forest model](https://drive.google.com/file/d/11zUqToxAXTd1VW8HoGw708eK14-yjQBM/view?usp=sharing)
 
-Application Demo: [Airbnb Random Forest Model Demo](https://airbnbregml.streamlit.app/)
+Application Demo: [Airbnb Linear Regression Demo](https://airbnbregml.streamlit.app/) [Airbnb Random Forest Demo, someties its dying](https://portfolioririraissa.streamlit.app/) 
 
 The predictions may be suboptimal as I am using a linear regression model to prevent the website from becoming unresponsive. 
 
